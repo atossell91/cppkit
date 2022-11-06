@@ -1,0 +1,1 @@
+copy C:\Users\atoss\source\repos\cppkit\cppkit\bin\Release\netcoreapp3.1\* "C:\Program Files\cppkit\"
